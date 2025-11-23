@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://fantuanautnaf.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
   </url><url>
     <loc>https://fantuanautnaf.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/post/</loc>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/tags/</loc>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/p/test/</loc>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-11-23T01:25:07-08:00</lastmod>
   </url><url>
     <loc>https://fantuanautnaf.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantuanautnaf.github.io/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fantuanautnaf.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fantuanautnaf.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantuanautnaf.github.io/archives/</loc>
@@ -39,9 +48,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantuanautnaf.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fantuanautnaf.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantuanautnaf.github.io/categories/themes/</loc>
@@ -86,5 +92,7 @@
     <loc>https://fantuanautnaf.github.io/_index.zh-cn/</loc>
   </url><url>
     <loc>https://fantuanautnaf.github.io/links/</loc>
+  </url><url>
+    <loc>https://fantuanautnaf.github.io/search/</loc>
   </url>
 </urlset>
